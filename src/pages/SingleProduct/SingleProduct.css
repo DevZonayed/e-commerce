@@ -1,0 +1,35 @@
+/* Add to cart form start here */
+.product-quantity-form form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.product-quantity-form form .btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* Add to cart form end here */
+/* Product gellary arrow button start here */
+.product-details-nav ul {
+  position: relative;
+}
+.p_g_s_btn {
+  font-size: 30px;
+  position: absolute;
+  z-index: 100;
+  transform: translateY(-50%);
+}
+.p_g_s_btn:last-child {
+  top: 50%;
+  right: 0px;
+}
+.p_g_s_btn:first-child {
+  top: 50%;
+  left: 0;
+}
+
+.product-details-tab-wrapper .nav-tabs .nav-link:not(.active) {
+  opacity: 0.5;
+}
+/* Product gellary arrow button end here */

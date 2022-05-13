@@ -1,0 +1,70 @@
+.inputCategory {
+  width: 100%;
+  min-height: 25px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.appinputinstantdata {
+  display: flex;
+  background-color: #ddd;
+  padding: 2px 8px;
+  border-radius: 20px;
+  align-items: center;
+  cursor: pointer;
+  margin: 5px;
+}
+.appinputinstantdata span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  background: gray;
+  border-radius: 50px;
+  margin-left: 6px;
+  color: white;
+}
+.appinputinstantdata span * {
+  pointer-events: none;
+}
+.inputdatafild {
+  position: relative;
+  flex-grow: 1;
+}
+.inputcatfield {
+  width: 100%;
+  margin: 5px 0px;
+  border: none !important;
+  outline: none !important;
+}
+/* suggestions  */
+.sujjeioncontainer {
+  position: absolute;
+  top: -100%;
+  display: flex;
+}
+.suggestion {
+  background-color: white;
+  padding: 0px 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  margin: 0px 5px;
+}
+
+/* Variable Control Start Here */
+.titleAndClose {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.titleAndClose button {
+  font-size: 20px;
+  height: auto;
+  line-height: 0;
+}

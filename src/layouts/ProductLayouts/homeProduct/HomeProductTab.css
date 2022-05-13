@@ -1,0 +1,9 @@
+.single-product {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.product-image {
+  position: relative;
+  min-height: 250px;
+}

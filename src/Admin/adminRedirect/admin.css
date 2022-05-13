@@ -1,0 +1,68 @@
+.admin-sidebar-menu li {
+  position: relative;
+}
+.admin-sidebar-menu li a {
+  display: block;
+  padding: 8px 5px;
+  border-radius: 0px 30px 30px 0px;
+  border-left: 5px solid transparent;
+  color: #95a5a6;
+  position: relative;
+  overflow: hidden;
+}
+.admin-sidebar-menu li a.active {
+  border-color: var(--orange);
+}
+.admin-sidebar-menu li a::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0;
+  background-color: var(--orange-hover);
+  transition: var(--transition);
+  pointer-events: none;
+}
+.admin-sidebar-menu li a.active::before {
+  width: 100%;
+}
+.admin-sidebar-menu li a:hover {
+  background-color: var(--sweet-dark);
+}
+
+/* Sub Menu Stracture */
+.admin-sidebar-menu li ul {
+  margin: 8px 0px;
+  margin-left: 10px;
+  border-top: 1px solid rgba(221, 221, 221, 0.212);
+  border-bottom: 1px solid rgba(221, 221, 221, 0.212);
+  padding: 10px 0px;
+  padding-left: 7px;
+  height: 0px;
+  padding: 0;
+  margin: 0;
+  border-width: 0;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.admin-sidebar-menu li ul.active {
+  transition: var(--transition);
+  height: auto;
+  margin: 8px 0px;
+  margin-left: 10px;
+  padding: 10px 0px;
+  padding-left: 7px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+}
+.admin-sidebar-menu li ul li a {
+  padding: 2px;
+}
+
+.controlContainer {
+  width: 100%;
+}
+.sideBarContainer {
+  height: 100%;
+}

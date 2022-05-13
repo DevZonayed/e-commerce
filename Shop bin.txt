@@ -1,0 +1,1178 @@
+<div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/pant/1/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Skinny Jeans Pant</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£45.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-navy active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/pant/1/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-light-white">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/pant/1/4.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/pant/2/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker discount"> -25%</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Men's Flat-Front Shorts</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£30.00</span>
+                        <span className="price-old">£40.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-brown active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/pant/2/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-ash">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/pant/2/3.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-navy">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/pant/2/5.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shoe/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Eastland Lumber Up Boots</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£38.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/3/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Men's Poplin Dress Shirt</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£25.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-yellow active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/3/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-black">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/3/2.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-navy">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/3/3.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-orange">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/3/4.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/bag/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker new">New</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Varsi Leather Bag</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£65.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-brown active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/bag/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-ash">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/bag/2.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-black">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/bag/3.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-2-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Fit Twill Shirt for Woman
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£62.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-3-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker discount"> -25%</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Grand Atlantic Chukka Boots
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£24.00</span>
+                        <span className="price-old">£32.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-4-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Women's Faux-Trim Shirt</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£84.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-16-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker new">New</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Soft Touch Interlock Polo
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£45.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/product-img1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Ecomart Smart Watch</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£30.00</span>
+                        <span className="price-old">£38.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/2.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Ecomart Smart Glass</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£25.00</span>
+                        <span className="price-old">£39.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-black active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/2.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-ash">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/5.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-brown">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/8.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-navy">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/11.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-wood">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/14.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/2/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Cotton Shirt fot Men</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£85.00</span>
+                        <span className="price-old">£99.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-brown active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/2/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-navy">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/2/4.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-ash">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/shirt/2/7.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-5-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Double-breasted Blazer</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£32.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-1-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker new">New</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Ribbed Cotton Bodysuits</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£71.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-ash active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-1-1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-light-white">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-1-2.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/jacket/1/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Men's Tricot Track Jacket
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£35.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-black active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/jacket/1/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-navy">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/jacket/1/4.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-6-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker new">New</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Wedding Diamond Ring</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£64.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Polarized Sunglasses</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£43.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-black active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-ash">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/4.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-brown">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/7.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-navy">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/sunglass/10.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-8-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker discount"> -30%</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Baby Dress for Girl</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£35.00</span>
+                        <span className="price-old">£50.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-9-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Fit Twill Shirt for Woman
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£34.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-10-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker new">New</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Skinny Cotton Pant</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£41.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-7-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Denim Official Coat</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£35.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-11-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker discount"> -20%</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Tinted Sunglasses</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£48.00</span>
+                        <span className="price-old">£60.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-12-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Men's classNameic Stretch Shirt
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£63.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/jacket/2/1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                      <div className="product-sticker-wrapper">
+                        <span className="product-sticker discount"> -20%</span>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Packable Quilted Puffer Jacket
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£28.00</span>
+                        <span className="price-old">£35.00</span>
+                      </div>
+                      <ul className="product-color-nav">
+                        <li className="cl-ash active">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/jacket/2/1.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-navy">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/jacket/2/2.jpg"
+                            alt="img"
+                          />
+                        </li>
+                        <li className="cl-blue">
+                          <img
+                            src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/jacket/2/3.jpg"
+                            alt="img"
+                          />
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-13-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Girls Metallic Coat</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£38.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-14-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">Varsi Leather Bag</a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£85.00</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="single-product">
+                    <div className="product-image pos-rel">
+                      <a href="shop-details.html" className="">
+                        <img
+                          src="https://themepure.net/html/ecomart-prev/ecomart/assets/img/product/800_1034/Image-15-1.jpg"
+                          alt="img"
+                        />
+                      </a>
+                      <div className="product-action">
+                        <a href="/#" className="quick-view-btn">
+                          <i className="fal fa-eye"></i>
+                        </a>
+                        <a href="/#" className="wishlist-btn">
+                          <i className="fal fa-heart"></i>
+                        </a>
+                        <a href="/#" className="compare-btn">
+                          <i className="fal fa-exchange"></i>
+                        </a>
+                      </div>
+                      <div className="product-action-bottom">
+                        <a href="cart.html" className="add-cart-btn">
+                          <i className="fal fa-shopping-bag"></i>Add to Cart
+                        </a>
+                      </div>
+                    </div>
+                    <div className="product-desc">
+                      <div className="product-name">
+                        <a href="shop-details.html">
+                          Men's classNameic Fit Polo
+                        </a>
+                      </div>
+                      <div className="product-price">
+                        <span className="price-now">£26.00</span>
+                      </div>
+                    </div>
+                  </div>

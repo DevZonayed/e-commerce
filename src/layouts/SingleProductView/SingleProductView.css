@@ -1,0 +1,32 @@
+/* Product Loading Animation */
+.p_image_loading_container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.p_image_loading {
+  width: 3.75em;
+  animation: 1.5s spin ease infinite;
+}
+
+.p_image_loading .ring {
+  fill: none;
+  stroke: hsla(236, 98%, 48%, 0.3);
+  stroke-width: 2;
+}
+
+.p_image_loading .ball {
+  fill: #0013bd;
+  stroke: none;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
